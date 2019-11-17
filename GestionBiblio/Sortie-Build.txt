@@ -1,0 +1,7 @@
+﻿1>------ Début de la génération : Projet : GestionBiblio, Configuration : Debug Any CPU ------
+1>C:\Users\ahmed\OneDrive\Bureau\DUT\GestionBiblio\gestionlivre.cs(22,13,22,25): warning CS0649: Le champ 'gestionlivre.currRowIndex' n'est jamais assigné et aura toujours sa valeur par défaut 0
+1>C:\Users\ahmed\OneDrive\Bureau\DUT\GestionBiblio\gestionlivre.Designer.cs(618,44,618,50): warning CS0169: Le champ 'gestionlivre.label2' n'est jamais utilisé
+1>C:\Users\ahmed\OneDrive\Bureau\DUT\GestionBiblio\gestionlivre.Designer.cs(614,44,614,50): warning CS0169: Le champ 'gestionlivre.label3' n'est jamais utilisé
+1>C:\Users\ahmed\OneDrive\Bureau\DUT\GestionBiblio\gestionlivre.Designer.cs(616,44,616,50): warning CS0169: Le champ 'gestionlivre.label1' n'est jamais utilisé
+1>  GestionBiblio -> C:\Users\ahmed\OneDrive\Bureau\DUT\GestionBiblio\bin\Debug\GestionBiblio.exe
+========== Génération : 1 a réussi, 0 a échoué, 0 mis à jour, 0 a été ignoré ==========
